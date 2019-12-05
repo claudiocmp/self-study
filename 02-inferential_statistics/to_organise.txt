@@ -1,0 +1,28 @@
+# Notes on Inference for Models
+
+## TOC
+
+Causal Inference Models
+* [Influence and causality: castration doesn't make you live longer](https://www.inference.vc/influence_and_causality_castration_doesn_t_make_you_live_longer/)
+* [Part 1: ML beyond Curve Fitting: An Intro to Causal Inference and do-Calculus](https://www.inference.vc/untitled/)
+* [Part 2: Illustrating Interventions via a Toy Example](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/)
+* [Part 3: Counterfactuals](https://www.inference.vc/causal-inference-3-counterfactuals/)
+
+Inference and DNN’s
+* [Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?](https://www.inference.vc/everything-that-works-works-because-its-bayesian-2/)
+
+Inference in VAE
+* [Choice of Recognition Models in VAEs: a regularisation view](https://www.inference.vc/choice-of-recognition-models-in-vaes-a-regularisation-view/)
+
+GANs
+* [GANs are Broken in More than One Way: The Numerics of GANs](https://www.inference.vc/my-notes-on-the-numerics-of-gans/)
+
+
+
+## Causal Inference Models
+
+
+
+
+
+
